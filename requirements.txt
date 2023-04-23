@@ -1,0 +1,5 @@
+Flask==1.1.4
+Flask-Bcrypt
+Flask-Script
+Flask-Testing
+MarkupSafe==2.0.1
